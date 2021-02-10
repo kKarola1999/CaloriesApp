@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CaloriesApp</string>
+    <string name="hint_name">CaloriesApp</string>
+    <string name="show_name">CaloriesApp</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="textSetGoal">SET YOUR GOAL</string>
+    <string name="textSetCalGoal">SET YOUR CALORIE GOAL</string>
+    <string name="textAddProduct">ADD PRODUCT</string>
+    <string name="infoProduct">PRODUCT INFORMATION</string>
+    <string name="addProduct">ADD PRODUCT TO YOUR LIST</string>
+    <string name="showStats">SHOW PROGRES</string>
+    <string name="yourStats">YOUR PROGRES FOR TODAY</string>
+    <string name="listProducts">LIST OF PRODUCTS</string>
+
+
+
+
+</resources>
